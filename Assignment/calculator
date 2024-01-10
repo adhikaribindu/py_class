@@ -1,0 +1,9 @@
+num1=int(input("Enter the first value:"))
+num2=int(input("Enter the second value:"))
+
+print("The sum of", num1, "+", num2,"is",num1+num2)
+print("The difference of",num1,"-",num2,"is",num1-num2)
+print("The multiplication of",num1,"*",num2,"is",num1*num2)
+print("The divison of",num1,"/",num2,"is",num1/num2)
+print("The remainder of", num1,"%",num2,"is",num1%num2)
+print("The power of",num1,"**",num2,"is",num1**num2)
