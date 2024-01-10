@@ -32,3 +32,6 @@ lis[3][2].append(900)
 lis.remove(200)
 print(lis)
 
+print("Welcome to the country")
+
+
