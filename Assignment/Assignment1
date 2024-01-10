@@ -7,6 +7,7 @@ print(nam[4:11])
 print(nam[-12:-2])
 print(nam[3::3])
 print(nam.lower())
+print(nam.upper())
 
 #list
 Object=["Basket",True,22,"Kathmandu",34.8]
