@@ -7,3 +7,7 @@ print("The multiplication of",num1,"*",num2,"is",num1*num2)
 print("The divison of",num1,"/",num2,"is",num1/num2)
 print("The remainder of", num1,"%",num2,"is",num1%num2)
 print("The power of",num1,"**",num2,"is",num1**num2)
+
+
+
+
