@@ -21,7 +21,6 @@ List_of_Things.sort()
 #List_of_Things.sort(reverse=True)
 List_of_Things.insert(1,"mango")
 print(List_of_Things)
-
 num1=[1,5,4,9,2,4,68]
 num2=[6,8,23,35]
 num1.extend(num2)
